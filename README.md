@@ -2,7 +2,7 @@
 
 Ayal Schwartz, Sharom Gannot and Shlomo E. Chazan 
 
-Int.Workshop on Acoustic Signal Enhancement (IWAENC), 2024
+Int. Workshop on Acoustic Signal Enhancement (IWAENC), 2024
 
 ![flow](/flow5.png)
 
